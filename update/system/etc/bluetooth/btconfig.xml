@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+		<profile>
+			<name>profile_supported_simap</name>
+			<value>true</value>
+		</profile>
+		<profile>
+			<name>profile_supported_prxm</name>
+			<value>true</value>
+		</profile>
+		<profile>
+			<name>profile_supported_prxr</name>
+			<value>true</value>
+		</profile>
+		<profile>
+			<name>profile_supported_ftp</name>
+			<value>true</value>
+		</profile>
+		<profile>
+			<name>profile_supported_bpp</name>
+			<value>true</value>
+		</profile>
+		<profile>
+			<name>profile_supported_bip</name>
+			<value>true</value>
+		</profile>
+		<profile>
+			<name>profile_supported_dun</name>
+			<value>true</value>
+		</profile>
+		<profile>
+			<name>profile_supported_maps</name>
+			<value>true</value>
+		</profile>
+		<profile>
+			<name>profile_supported_mapc</name>
+			<value>true</value>
+		</profile>
+</resources>
